@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Mon Apr 14 10:05:59 2025 as: nmap -oN C:\\Users\\Saketh\\Documents\\HACKSECURE.txt testphp.vulweb.com
+Nmap scan report for testphp.vulweb.com (172.104.149.86)
+Host is up (0.14s latency).
+Other addresses for testphp.vulweb.com (not scanned): 2a01:7e01::f03c:95ff:fe91:5d91 2a01:7e01::f03c:95ff:fe00:2692 2a01:7e01::f03c:95ff:feeb:9d4b 2a01:7e01::f03c:95ff:feed:783e 139.162.174.209 139.162.181.76 172.104.251.198
+rDNS record for 172.104.149.86: 172-104-149-86.ip.linodeusercontent.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+# Nmap done at Mon Apr 14 10:06:10 2025 -- 1 IP address (1 host up) scanned in 11.47 seconds
